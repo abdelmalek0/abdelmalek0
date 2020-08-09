@@ -1,6 +1,7 @@
-<center>### Hi there 👋</center>
-My name is Djamaa Abdelmalek . I am a software developer 💻 who is passionate to learn and create interesting stuff.
-I’m currently learning mobile development 📱.
+<h1 align="center">Hi I'm Abdelmalek 👋</h1>
+I am a software developer 💻 who is passionate about learning and creating interesting stuff.
+<br>
+<b>I’m currently learning mobile development 📱.</b>
 <!--
 **abdelmalek0/abdelmalek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
