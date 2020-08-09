@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Abdelmalek 👋</h1>
-I am a software developer 💻 who is passionate about learning and creating interesting stuff.
+I am a software developer 💻 who is passionate about learning and creating interesting and beautiful stuff.
 <br>
 <b>I’m currently learning mobile development 📱.</b>
 <!--
