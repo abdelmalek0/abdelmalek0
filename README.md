@@ -22,6 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmalek0&show_icons=true&locale=en" alt="abdelmalek0" /></p>
 <br>
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdelmalek0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="abdelmalek0" /></a></p><br><br>
+-->
