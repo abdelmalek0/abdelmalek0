@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmalek0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmalek0" /> </p>
 
-- 🔭 I’m currently working on **Reinforcement Learning and Style generation using RNN**
+- 🔭 I’m currently working on **Imitation learning**
 
 - 🌱 I’m currently learning **Flutter**
 
