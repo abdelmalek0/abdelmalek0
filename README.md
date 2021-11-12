@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Reinforcement learning**
 
-- 🌱 I’m currently learning **Deep learning - advanced topics **
+- 🌱 I’m currently learning **Deep learning - advanced topics**
 
 - 📫 How to reach me **ga_djamaa@esi.dz**
 <br>
