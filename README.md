@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelmalek!</h1>
-<h3 align="center">A passionate mobile developer | AI enthusiast from Algeria</h3>
+<h3 align="center">A passionate data scientist | android developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmalek0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmalek0" /> </p>
 
-- 🔭 I’m currently working on **Imitation learning**
+- 🔭 I’m currently working on **Reinforcement learning**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Deep learning - advanced topics **
 
 - 📫 How to reach me **ga_djamaa@esi.dz**
 <br>
