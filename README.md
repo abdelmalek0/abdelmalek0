@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmalek0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmalek0" /> </p>
 
-- 🔭 I’m currently working on **The Siamese networks**
+- 🔭 I’m currently working on **Fraud detection**
 
-- 🌱 I’m currently learning **Deep learning - advanced topics**
+- 🌱 I’m currently learning **Recommendation systems**
 
 - 📫 How to reach me **ga_djamaa@esi.dz**
 <br>
