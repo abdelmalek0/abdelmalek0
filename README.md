@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelmalek!</h1>
-<h3 align="center">Data scientist and android developer from Algeria</h3>
+<h3 align="center">Data scientist and Android developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmalek0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmalek0" /> </p>
 
