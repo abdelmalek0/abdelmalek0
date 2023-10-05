@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmalek0&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmalek0" /> </p>
 
-- 🔭 I’m currently working on **Fraud Detection in retail shops**
+- 🔭 I’m currently working on **Object detection on RKNN NPU**
 
 - 💬 Ask me about **python and computer vision**
 
