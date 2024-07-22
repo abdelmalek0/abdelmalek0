@@ -2,7 +2,7 @@
 
 💼 I work as a data scientist
   
-🖥️ I've been coding in Python primarily for over 3 years
+🖥️ I've been coding in Python primarily for over 4 years
 
 🔭 I’m currently working on **Time series forecasting**
 
