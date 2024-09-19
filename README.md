@@ -4,9 +4,9 @@
   
 🖥️ I've been coding in Python primarily for over 4 years
 
-🔭 I’m currently working on **Time series forecasting**
+🔭 I’m currently working on **RAG systems**
 
-🌱 I’m currently learning **RAG systems**
+🌱 I’m currently learning about **Advanced RAG concepts**
   
 💬 Ask me about **python and computer vision**
   
