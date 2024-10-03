@@ -1,16 +1,14 @@
 <h3 align="center">Hi, I'm Abdelmalek</h3>
 
-💼 I work as a data scientist
-  
-🖥️ I've been coding in Python primarily for over 4 years
+💼 Data Scientist with 4+ years of Python coding, and 2+ years of Computer vision experience.
 
-🔭 I’m currently working on **RAG systems**
+🔭 Developing Retrieval-Augmented Generation (RAG) systems to power conversational AI with human-like responses.
 
-🌱 I’m currently learning about **Advanced RAG concepts**
+🌱 Continuously expanding my knowledge, currently diving deep into Advanced RAG concepts and exploring new methodologies.
   
-💬 Ask me about **python and computer vision**
+💬 I’m always happy to discuss Python, Computer Vision, or LLMs—feel free to reach out.
   
-📫 How to reach me **ga_djamaa@esi.dz**
+📫 You can contact me at **ga_djamaa@esi.dz**
 
 
 <h3 align="left">Languages and Tools:</h3>
