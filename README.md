@@ -2,9 +2,13 @@
 
 <p align="left">
   💼 <b>Data Scientist</b> with 4+ years of Python coding, and 2+ years of Computer Vision experience.<br>
+  
   🔭 Currently working on <b>Retrieval-Augmented Generation (RAG)</b> systems to build conversational AI that responds like a human.<br>
+  
   🌱 Continuously learning and exploring advanced RAG concepts and methodologies.<br>
+  
   💬 Always open to discussing <b>Python</b>, <b>Computer Vision</b>, or <b>Large Language Models (LLMs)</b>.<br>
+  
   📫 Reach me at **ga_djamaa@esi.dz**
 </p>
 
