@@ -27,6 +27,7 @@
 #### Frameworks and Libraries:
 <p align="left">
   <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="https://www.langchain.com/"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-0E76A8.svg?logo=langchain&logoColor=white"></a>
   <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
   <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
   <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
