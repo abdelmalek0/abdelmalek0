@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdelmalek 👋</h1>
 
 <p align="left">
-  💼 <b>Data Scientist</b> with 4+ years of Python coding, and 2+ years of Computer Vision experience.<br>
+  💼 <b>Data Scientist</b> with 5+ years of Python coding, and 4+ years of Deep learning experience ( Mostly Computer vision ).<br>
   
   🔭 Currently working on <b>Retrieval-Augmented Generation (RAG)</b> systems to build conversational AI that responds like a human.<br>
   
