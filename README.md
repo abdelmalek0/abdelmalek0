@@ -50,17 +50,17 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmalek0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmalek0&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<span align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelmalek0&theme=radical&show_icons=true&locale=en&hide_border=true&layout=compact" alt="GitHub Stats" />
+</span>
+<span align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmalek0&show_icons=true&locale=en&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
+</span>
 
 ---
 
 ### 🌐 Connect with Me:
-<p align="center">
+<p>
   <a href="mailto:ga_djamaa@esi.dz"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/abdelmalek-djamaa-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/abdelmalek0"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
