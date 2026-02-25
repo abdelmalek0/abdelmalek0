@@ -49,16 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<span align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelmalek0&theme=radical&show_icons=true&locale=en&hide_border=true&layout=compact" alt="GitHub Stats" />
-</span>
-<span align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelmalek0&show_icons=true&locale=en&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
-</span>
-
----
-
 ### 🌐 Connect with Me:
 <p>
   <a href="mailto:ga_djamaa@esi.dz"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
