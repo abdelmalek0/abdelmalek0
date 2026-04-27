@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Abdelmalek 👋</h1>
 
 <p align="left">
-  💼 <b>Data Scientist</b> with 5+ years of Python coding, and 4+ years of Deep learning experience ( Mostly Computer vision ).<br>
+  💼 <b>Data Scientist</b> with 5 years of experience in Deep Learning, primarily in Computer Vision.<br>
   
-  🔭 Currently working on <b>Retrieval-Augmented Generation (RAG)</b> systems to build conversational AI that responds like a human.<br>
+  🔭 Currently working with <b>LLMs</b> to build modern chatbots and automation agents.<br>
   
-  🌱 Continuously learning and exploring advanced RAG concepts and methodologies.<br>
+  🌱 Continuously exploring advanced training and inference techniques for scalable AI systems.<br>
   
-  💬 Always open to discussing <b>Python</b>, <b>Computer Vision</b>, or <b>Large Language Models (LLMs)</b>.<br>
+  💬 Open to discussions about <b>Python</b>, <b>Computer Vision</b>, and <b>LLMs</b>.<br>
   
-  📫 Reach me at **ga_djamaa@esi.dz**
+  📫 Reach me at <b>ga_djamaa@esi.dz</b>
 </p>
 
 ---
